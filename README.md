@@ -1,6 +1,7 @@
 # demo
 
 > A Vue.js project
+需要和接口配合。
 
 ## Build Setup
 
@@ -8,7 +9,7 @@
 # install dependencies
 npm install
 
-# serve with hot reload at localhost:8080
+# serve with hot reload at localhost:8181
 npm run dev
 
 # build for production with minification
